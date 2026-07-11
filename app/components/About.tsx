@@ -43,7 +43,7 @@ const features = [
 
 export default function About() {
   return (
-    <section className="bg-[#111113] py-28">
+    <section id="about" className="bg-[#111113] py-28">
       <div className="mx-auto max-w-7xl px-6">
 
         <p className="mb-5 text-sm uppercase tracking-[0.35em] text-[#ff4b4b]">
