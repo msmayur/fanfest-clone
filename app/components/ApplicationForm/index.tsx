@@ -10,7 +10,7 @@ import Terms from "./Terms";
 
 export default function ApplicationForm() {
   return (
-    <section className="bg-[#090909] py-28">
+    <section id="apply" className="bg-[#090909] py-28">
 
       <div className="section-container max-w-5xl">
 
