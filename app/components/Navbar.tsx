@@ -24,6 +24,7 @@ export default function Navbar() {
 
         {/* Apply Button */}
         <button
+          href="#apply"
           className="
           rounded-full
           bg-[#ff4747]
